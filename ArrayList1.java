@@ -7,6 +7,7 @@ class ArrayList1
 		list.add("priti");
 		//list.add(2);
 		//list.add(3);
-		// System.out.println(list);
+		list.add("raani");
+		 System.out.println(list);
 	}
 }
